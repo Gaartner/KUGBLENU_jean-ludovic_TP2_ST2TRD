@@ -1,0 +1,17 @@
+/Users/lucsky/Documents/EFREI/M1/data feed/DepotRenduTP2/KUGBLENU_jean-ludovic_TP2_ST2TRD/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.csproj.AssemblyReference.cache
+/Users/lucsky/Documents/EFREI/M1/data feed/DepotRenduTP2/KUGBLENU_jean-ludovic_TP2_ST2TRD/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucsky/Documents/EFREI/M1/data feed/DepotRenduTP2/KUGBLENU_jean-ludovic_TP2_ST2TRD/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/lucsky/Documents/EFREI/M1/data feed/DepotRenduTP2/KUGBLENU_jean-ludovic_TP2_ST2TRD/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.AssemblyInfo.cs
+/Users/lucsky/Documents/EFREI/M1/data feed/DepotRenduTP2/KUGBLENU_jean-ludovic_TP2_ST2TRD/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/lucsky/Documents/EFREI/M1/data feed/DepotRenduTP2/KUGBLENU_jean-ludovic_TP2_ST2TRD/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1
+/Users/lucsky/Documents/EFREI/M1/data feed/DepotRenduTP2/KUGBLENU_jean-ludovic_TP2_ST2TRD/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.deps.json
+/Users/lucsky/Documents/EFREI/M1/data feed/DepotRenduTP2/KUGBLENU_jean-ludovic_TP2_ST2TRD/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.runtimeconfig.json
+/Users/lucsky/Documents/EFREI/M1/data feed/DepotRenduTP2/KUGBLENU_jean-ludovic_TP2_ST2TRD/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.dll
+/Users/lucsky/Documents/EFREI/M1/data feed/DepotRenduTP2/KUGBLENU_jean-ludovic_TP2_ST2TRD/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/ref/ConsoleApp1.dll
+/Users/lucsky/Documents/EFREI/M1/data feed/DepotRenduTP2/KUGBLENU_jean-ludovic_TP2_ST2TRD/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.pdb
+/Users/lucsky/Documents/EFREI/M1/data feed/DepotRenduTP2/KUGBLENU_jean-ludovic_TP2_ST2TRD/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/lucsky/Documents/EFREI/M1/data feed/DepotRenduTP2/KUGBLENU_jean-ludovic_TP2_ST2TRD/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.csproj.CopyComplete
+/Users/lucsky/Documents/EFREI/M1/data feed/DepotRenduTP2/KUGBLENU_jean-ludovic_TP2_ST2TRD/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.dll
+/Users/lucsky/Documents/EFREI/M1/data feed/DepotRenduTP2/KUGBLENU_jean-ludovic_TP2_ST2TRD/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ref/ConsoleApp1.dll
+/Users/lucsky/Documents/EFREI/M1/data feed/DepotRenduTP2/KUGBLENU_jean-ludovic_TP2_ST2TRD/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.pdb
+/Users/lucsky/Documents/EFREI/M1/data feed/DepotRenduTP2/KUGBLENU_jean-ludovic_TP2_ST2TRD/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.genruntimeconfig.cache
